@@ -6,6 +6,7 @@ Prototype: def read_file(filename="")
 No need to manage permission or file doesn't exist exception
 """
 
+
 def read_file(filename=""):
     """ Open and read a text file (UTF8) and prints it to stdout.
     Args:
